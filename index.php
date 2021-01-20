@@ -13,7 +13,6 @@ $data = array(
     "reference_1" => "Sara"
     "reference_2" => "Dila"
     "deliver" => "false"
-    "redirect_url" => "http://example.com/redirect/"
     )
 );
 $ch = curl_init($url);
